@@ -1,0 +1,41 @@
+ Absolute and Relative Grading 
+The letter grade awarded to a student for his/her performance in a course can be based on
+either the Absolute Grading or the Relative Grading concept. The ‘Relative Grading’ concept
+indicates the academic standing of a student in his/her class. All the theory component of
+the courses, where their class strength is more than 10, shall follow class-wise relative
+grading concept. In Relative Grading, the following two extreme situations, which generally 
+are not congenial for the students’ growth are annulled.
+1. Majority of students scoring very high marks because, either the question paper is easy 
+or the evaluator is very lenient.
+2. Majority of students scoring very low marks because of either the question
+paper is tough or the evaluator is very strict.
+In this system, grades are awarded to students according to their performance relative to their
+peers in the same class (class is defined as a unique combination of course-slot-faculty).
+Normally the class average mark is taken as midpoint of ‘B’ grade, and relative to this and
+depending on the sigma (σ, standard deviation) value, the other grades are finalized. A
+combination of absolute and relative grading systems is adopted in converting marks to grades
+as given in the Annexure VII and VIII.
+20
+However, if the mark range for F grade of that class is <50 (based on mean- 2*sigma), then 
+that value is used to check the prerequisite of the Grand total marks instead of 50. If a course 
+does not have an “S” grade (or) if the “S” grade boundary exceeds 100 as per the above 
+formula, a Committee will decide the number of “S” grades and “S” grade cut-off marks. Before 
+calculating the class average and standard deviation, the grand total marks obtained by the 
+student is “rounded-up” to the next integer (any fraction will move to the next integer) and the 
+same is displayed also. Marks of other evaluation components are not altered and stored up to 
+two decimal accuracy. This and total is used to compare the grade band minimum and 
+maximum limits that are calculated and displayed as “rounded-off” integer (fraction of 0.5 and 
+above will be converted to the next integer and less than 0.5 will be truncated). 
+All the conditions stipulated in Section 9.4 for the for the Pass/Fail are applicable to relative 
+grading, also too. While applying relative grading, if the minimum marks corresponding to ‘E’ 
+grade happens to be less than 50, then that mark will be set as the minimum mark required to 
+pass the course. Similarly, when the class average is high, marks above 50 may result in ‘F’ 
+grade. Under such circumstances, the student will be awarded ‘E’ grade and declared pass. If 
+the minimum of the grade band is less than 100%, but the maximum has exceeded 100%, then 
+the maximum of the grade band shall be reset to 100%. But, if the minimum of the grade band 
+exceeds 100%, it indicates that the specific letter grade or better letter grade(S) cannot be 
+issued to that class.
+If the class strength is less than or equal to 10 in a theory or lab embedded theory course, 
+absolute grading shall be adopted, instead of the class-wise relative grading. All the
+laboratory and the project component of the courses shall adopt absolute grading method
+only, irrespective of the class strength.

@@ -1,0 +1,7 @@
+Eligibility for Examinations 
+All the students who have registered for a particular course are eligible to write the CAT and 
+FAT (Theory/Lab) of that course, provided he/she is not debarred from writing the exam, due to
+one or more of the reason/s listed below:
+1. Shortage of attendance;
+2. Acts of indiscipline;
+3. Withdrawal of a registered course

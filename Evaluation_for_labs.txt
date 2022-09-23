@@ -1,0 +1,20 @@
+Evaluation for Laboratory courses / Component and Project Course / Component 
+A few skill based courses may have only laboratory/ project component without a theory and/
+or tutorial component. To make students attend lab classes without fail and to increase the
+importance given to the lab classes, the practical component will be evaluated based on the
+performance of the students in each experiment. Students who do not earn a minimum of
+50% marks (sum of the marks awarded for all the assessments of the course) are declared
+as ‘Fail’ in the lab course/component with an ‘N’ grade and they have to re-register the lab only
+course/or lab component of a course. As in the case of Theory courses, laboratory courses will 
+also have a Final Assessment Test. The weightage for the internal assessment will be 60% and 
+for the Final Assessment will be 40%.
+The project component will be assessed separately by the faculty by conducting a minimum
+of three periodic reviews. These three periodic reviews would be conducted (1) before CAT I, 
+(2) between CAT I and CAT II, (3) between CAT II and FAT. The ratio of the marks assessments 
+for these reviews will be 20:30:50. No CAT/FAT will be conducted for the project components. 
+For the Project course/component, the students who do not earn a minimum 50% marks
+(sum of three reviews with 20:30:50 distribution) are declared as ‘Fail’ in the project
+component /course, and consequently will be bracketed under ‘not completed’ course, and
+hence an “N” grade will be awarded. The total marks of the course shall be calculated based
+on the ratio between the theory (including tutorials), laboratory and the project credits i.e. 
+(L+T :( P/2) :( J/4))

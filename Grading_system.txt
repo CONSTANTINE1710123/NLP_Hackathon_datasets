@@ -1,0 +1,49 @@
+Grading System 
+At the end of a semester, a student gets a ‘Letter Grade’ in every registered course, 
+provided his/her aggregate performance in any specific course in the whole 
+semester is apt. The letter grade and its ‘Grade Point’ indicate the results of both
+qualitative and quantitative assessment of the student’s performance in a course.
+A student is declared to have passed in a theory only Course, theory with lab embedded
+Course, theory with lab and project, theory with project, lab only or project only courses, only if 
+he/she meets the following conditions, as relevant to the type of individual courses:
+a) Should have secured a minimum of 40% marks in the theory FAT alone.
+b) Should have secured a minimum of 50% marks, out of total marks awarded to the
+laboratory and/or project components.
+c) Should have secured a minimum of 50% marks, out of the grand total marks awarded to
+the course (all component marks taken in their credit ratio for 100 marks), for all other 
+course types except the ‘theory only course’.
+Students who fail to meet the above pass criteria are awarded an ‘F’ grade. Students who have
+an ‘F’ grade need to re-register the course again to clear it. There will be no pass/fail criteria
+in continuous assessments. The letter grades and their corresponding grade points are given in 
+the Annexure – VI. The remarks column in the table describes the circumstance under which
+the specific grade is offered. The student registration details in FFCS will reflect the status of 
+currently registered and yet to be completed course components as ‘Y’. 
+A student is declared to have passed/ cleared a course, if he/she has earned any one of the
+following grades: ‘S, A, B, C, D, E or P, called the ‘Performance Grades’. Overall grade in a course 
+is based on the credit ratio of course components (L+T:P:J).
+19
+The letter grade ‘F’ will be awarded, under the following circumstances.
+I. Students who fail to clear a course due to their poor performance;
+II. Student clears all the components individually, but if the grand total of 
+that course does not meet the passing range, then “F” grade is 
+awarded. 
+To clear an ‘F’ grade, students should re-register for the entire course in the subsequent
+semester(s).
+The letter grade ‘N’ has been sub- categorized as follows:
+i. N1 : Student fails to clear one or more components of a course
+ii. N2 : Student who has been debarred due to lack of attendance
+iii. N3 : Student who remains absent in the Final Assessment Test
+iv. N4 : Student debarred in Final Assessment Test due to indiscipline / malpractice
+Students who fail to write the FAT due to valid medical reasons, will be initially awarded an
+‘N’ grade. They are eligible to apply for supplementary FAT as indicated in Section 9.10. If
+they fail to appear for the supplementary FAT as per the schedule for any reason –
+including medical or non-medical, the grade ‘N’ already awarded will be retained as it is
+and no second chance will be provided to them. The ‘N’ grade will be converted into a
+performance grade after the student takes up the supplementary FAT. However, the student
+is bound to appear for the auxiliary FAT within one academic year or whenever it is 
+scheduled from the date of approval, whichever is earliest. If a student fails to write the FAT
+due to reasons other than the one indicated above, shall be awarded ‘N’ grade by treating the
+course as incomplete. Letter grade ‘N’ carries ‘Zero’ grade point and to qualify the course,
+the student has to register the course again in a subsequent semester and complete the
+same with a ‘performance’ grade. Grade ‘W’ is discussed in Section 7.6 and grade ‘U’ is 
+discussed in Section 10 separately.

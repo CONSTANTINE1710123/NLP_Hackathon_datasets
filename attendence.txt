@@ -1,0 +1,43 @@
+Attendance
+A student is expected to maintain 100% attendance in all courses. Considering the fact that a
+student may need leave due to ill-health or to attend some family emergency, a student is
+permitted to maintain a minimum of 75% attendance (i.e. absent for 25% of instructional
+hours) in each course, without producing any proof for the absence. This 25% absence
+includes medical, personnel, casual, official leave of absence for organizing events/
+seminars/ workshops/ technical/ cultural festivals/competitions/ participation in cocurricular/ extra-curricular events/ NSS & NCC camps, or any other (valid or otherwise) reason.
+Computerized attendance monitoring system is adopted for posting the attendance by the
+faculty. Since no one is exempted from the minimum attendance conditions stipulated as
+below, students who fail to maintain the minimum attendance criteria will not be permitted to
+write the next evaluation component of the course (CAT/FAT Exam component fixed by the
+course faculty in case of courses under CAL) and they will be considered as ‘debarred from
+writing the exam’. The attendance software shall indicate the student status of that exam
+component as ‘Debarred’ if the student drops below the minimum attendance requirement. 
+Such display will be enabled one day prior to the examination. Students who are ‘debarred’ from 
+writing the FAT component of a course shall be awarded an “N” grade and they have to reregister the course again and clear with a performance grade. The attendance percentage will
+be calculated from the ‘date of registration’ into a course or as stipulated in the 
+attendance portal to one day before the start of the exam component. The minimum
+attendance requirement for the continuous assessment tests and the final assessment test is 
+75%.
+To encourage students to attend seminars, conferences, workshops, training programs, short
+duration courses offered by specialized institutions, etc. who otherwise shy off availing such
+benefits due to losing of attendance in various courses, students with CGPA of 9.00 and
+above (CGPA ≥ 9.00) and with no current backlog courses are exempted from the
+minimum attendance requirements. It is expected that these students will continue to
+attend all the classes without absence and will not take this as an advantage to skip
+classes. If such students’ CGPA falls below 9.00, at any point of time, they will be
+subjected to the minimum attendance requirements again. For this purpose, the ninepointers list will be dynamically generated and applied at the time of preparation of
+debarred list of each exam component (CAT/FAT) of a course. Hence the exemption status
+may change before any exam component depending on the declaration of results. However,
+no retrospective effect will be given to earlier decisions of inclusion/ exclusion from 
+debarred list based on the CGPA the students had at that time. In view of the short duration of 
+the summer/ intersession semesters, such exemptions are not applicable to any student and 
+therefore all students are required to maintain the minimum 75% attendance for attending the 
+said examinations.
+Students who are absent due to prolonged illness or any other valid reason from the classes
+beyond the 25% absence shall be advised to request for ‘Break of Study’ on medical
+grounds for a semester as indicated in Section 19. This may result in extension of minimum
+time period of completion of the program.
+The university has declared sectional holidays for Meelad-un-Nabi, Muharram, Bakrid, Telugu
+New Year's Day and Good Friday. The students who are availing the sectional holidays which is
+declared as instructional day have to submit their request to the HoD / Program Chair through
+the Proctor for consideration of attendance
